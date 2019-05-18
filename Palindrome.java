@@ -15,3 +15,6 @@ public class Palindrome {
         System.out.println(Palindrome.isPalindrome("Deleveled"));
     }
 }
+//palindrome adalah sebuah kata yang jika dibaca dari depan atau dari belakang artinya sama
+// contoh "saya" -> "ayas" (bukan palindrome)
+// contoh "deleveled" -> "deleveled" (palindrome)
